@@ -1,4 +1,4 @@
-## Olá! Me chamo Helen Alves e sou Desenvolvedora Front-End Júnior.
+## Olá! Me chamo Helen e sou Desenvolvedora Front-End Júnior.
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -10,5 +10,6 @@
   ##
  
 <div>
-  <a href="https://www.linkedin.com/in/devhelenalves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a target="_blank" href="https://www.linkedin.com/in/devhelenalves">
+  <img target="_blank" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
