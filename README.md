@@ -1,4 +1,8 @@
-## Olá! Me chamo Helen e sou Desenvolvedora Front-End Júnior.
+## Olá! 👩‍💻 
+
+Me chamo Helen e sou Desenvolvedora Front-End Júnior, gosto muito de aprender tecnologia pois significa melhorar a vida. Eu tenho vivências com projetos usando Javascript. Eu sou estudante do curso de Desenvolvimento Web Full Stack do ProgramadorBR, onde estou aprendendo as mais modernas soluções de desenvolvimento web e mobile.
+
+🔭 Atualmente estou buscando trabalho!
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
